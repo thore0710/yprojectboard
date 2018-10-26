@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>연두의 프로젝트보드-Home</title>
 <meta charset="utf-8">
 </head>
 <body>
